@@ -1,0 +1,6 @@
+[submodule "themes/nixon"]
+	path = themes/nixon
+	url = https://github.com/mdhender/nixon.git
+[submodule "themes/nixons"]
+	path = themes/nixons
+	url = https://github.com/spf13/spf13.com.git

@@ -1,0 +1,4 @@
+baseURL = "http://yannbraga.com/"
+languageCode = "en-us"
+title = "Yann Braga"
+theme = "nixons"

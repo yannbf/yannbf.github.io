@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="229px" viewBox="0 0 201 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>LogoHex</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EA210C" offset="0%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="42.2469555 16.0803224 156.714785 15.6588314 157.068896 212.539399 42.7395292 212.896279"></polygon>
+        <rect id="path-3" x="43.1990816" y="15.3483928" width="112.941176" height="197.647059"></rect>
+        <filter x="-1.3%" y="-0.8%" width="102.7%" height="101.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LogoHex" transform="translate(1.000000, 0.000000)">
+            <g id="Rectangle" transform="translate(99.657926, 114.277555) rotate(-30.000000) translate(-99.657926, -114.277555) ">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#131313" stroke-width="2" d="M43.2494521,17.0766378 L43.7370218,211.893161 L156.067101,211.542521 L155.716588,16.6625137 L43.2494521,17.0766378 Z"></path>
+            </g>
+            <polygon id="Rectangle-Copy" fill="#F85353" transform="translate(99.633870, 114.188583) scale(-1, 1) rotate(-30.000000) translate(-99.633870, -114.188583) " points="42.2716086 15.8741283 156.43205 15.5071342 156.996132 212.451817 42.618772 212.870031"></polygon>
+            <g id="Rectangle-Copy-2" transform="translate(99.669670, 114.171922) scale(-1, 1) rotate(-90.000000) translate(-99.669670, -114.171922) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#0F0F0F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#0E0E0E" stroke-width="1" x="43.6990816" y="15.8483928" width="111.941176" height="196.647059"></rect>
+            </g>
+            <text id="YB" font-family="HelveticaNeue, Helvetica Neue" font-size="95" font-weight="normal" fill="#FFFFFF">
+                <tspan x="35.9766176" y="154">YB</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
