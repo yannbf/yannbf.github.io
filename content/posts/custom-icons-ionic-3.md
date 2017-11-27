@@ -1,8 +1,12 @@
 ---
-title: "How to use custom icons on Ionic 3"
-date: 2017-11-14T01:14:17-03:00
-draft: true
+title: 'How to use custom icons on Ionic 3'
+Keywords:
+- Ionic3
+- Custom Icons
+date: 2017-11-15T09:52:23-03:00
 ---
+
+{{< figure src="https://yannbraga.com/wp-content/uploads/2017/06/Custom-icons-Banner.png" class="center" link="/posts/custom-icons-ionic-3/" >}}
 
 One of the trending topics I see in the Ionic community is the usage of custom icons in an application. There are already awesome icons built in with Ionic 3, but sometimes you just want to make your application look more unique, or perhaps a designer gave you a set of image icons and you don’t know the best approach to use them. In that case, I highly recommend you to create your own font using SVG icons. This way, regardless of the icon size, it will look perfectly sharp in any device.
 
@@ -18,7 +22,7 @@ I’m no designer, so I use icons made by others. There’s an amazing platform 
 
 
 {{< figure src="https://yannbraga.com/wp-content/uploads/2017/06/nounproject-300x223.png" class="center" width="420" height="196" link="https://thenounproject.com" >}}
- 
+
 
 ## Generating our new font
 After downloading the desired icons, we are going to use an app called Icon Moon, which basically can turn a set of SVG icons into a font that a browser can easily understand. This app already has a few sets of icons (most of which are free), so if you haven’t picked your SVGs from somewhere else, you can get from there (you can browse its <a href="https://icomoon.io/app/#/select/library" target="_blank" rel="noopener">icon library</a>).
@@ -140,8 +144,8 @@ We are done! Now our project is fully capable of using either Ionic default icon
 {{</ highlight>}}
 
 And here’s the result:
-{{< figure src="https://yannbraga.com/wp-content/uploads/2017/06/Selection_467.png" alt="Ionic app running with custom icons.">}}
- 
+{{< figure src="https://yannbraga.com/wp-content/uploads/2017/06/Selection_467.png" class="center" alt="Ionic app running with custom icons.">}}
+
 That’s it! I hope you all find this tutorial useful, and please let me know in case of any questions.
 
 You can access a repository with the whole project <a href="https://github.com/yannbf/ionicCustomIconsSample">here.</a>

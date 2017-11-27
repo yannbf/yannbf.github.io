@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yannbraga.com/posts/custom-icons-ionic-3/</loc>
+    <lastmod>2017-11-15T09:52:23-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/posts/the-day-i-became-a-jedi/</loc>
+    <lastmod>2017-06-21T02:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/posts/ionic-custom-components-and-templates/</loc>
+    <lastmod>2017-06-02T21:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/posts/how-to-transparent-header-ionic2/</loc>
+    <lastmod>2017-03-16T05:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/posts/echo-hello-world/</loc>
+    <lastmod>2017-03-12T23:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/posts/</loc>
+    <lastmod>2017-11-15T09:52:23-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yannbraga.com/</loc>
+    <lastmod>2017-11-15T09:52:23-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

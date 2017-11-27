@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yann Braga</title>
+    <link>http://yannbraga.com/posts/</link>
+    <description>Recent content in Posts on Yann Braga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2017 09:52:23 -0300</lastBuildDate>
+    
+	<atom:link href="http://yannbraga.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use custom icons on Ionic 3</title>
+      <link>http://yannbraga.com/posts/custom-icons-ionic-3/</link>
+      <pubDate>Wed, 15 Nov 2017 09:52:23 -0300</pubDate>
+      
+      <guid>http://yannbraga.com/posts/custom-icons-ionic-3/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+    &lt;a href=&#34;http://yannbraga.com/posts/custom-icons-ionic-3/&#34;&gt;
+        &lt;img src=&#34;https://yannbraga.com/wp-content/uploads/2017/06/Custom-icons-Banner.png&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;One of the trending topics I see in the Ionic community is the usage of custom icons in an application. There are already awesome icons built in with Ionic 3, but sometimes you just want to make your application look more unique, or perhaps a designer gave you a set of image icons and you don’t know the best approach to use them. In that case, I highly recommend you to create your own font using SVG icons. This way, regardless of the icon size, it will look perfectly sharp in any device.&lt;/p&gt;
+
+&lt;p&gt;Today, I’ll be showing you the exact steps to integrate your custom icons and the &lt;code&gt;ion-icon&lt;/code&gt; element.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Day I Became a Jedi</title>
+      <link>http://yannbraga.com/posts/the-day-i-became-a-jedi/</link>
+      <pubDate>Wed, 21 Jun 2017 02:00:00 +0000</pubDate>
+      
+      <guid>http://yannbraga.com/posts/the-day-i-became-a-jedi/</guid>
+      <description>On May 4th, Ionic invited developers to participate in a remote hackathon called Become an Ionic Jedi Hackster, of which the devs had 48 hours to create a Star Wars themed app using the latest Ionic and the Ionic CLI v3.
+Of course I participated, and came up with Star Warnic, an application that gathered info, trailers and curiosities about star war movies. I was lucky enough to have won it!</description>
+    </item>
+    
+    <item>
+      <title>Ionic Custom Components and Templates</title>
+      <link>http://yannbraga.com/posts/ionic-custom-components-and-templates/</link>
+      <pubDate>Fri, 02 Jun 2017 21:30:00 +0000</pubDate>
+      
+      <guid>http://yannbraga.com/posts/ionic-custom-components-and-templates/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+    &lt;a href=&#34;posts/ionic-custom-components-and-templates/&#34;&gt;
+        &lt;img src=&#34;https://yannbraga.com/wp-content/uploads/2017/03/ionicComponentsHeader.png&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+
+&lt;p&gt;Today I&amp;rsquo;d like to share with you a project I have been working on the past few months. It&amp;rsquo;s a github repository that includes many Ionic components and template samples, such as&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to make a transparent header on Ionic 2</title>
+      <link>http://yannbraga.com/posts/how-to-transparent-header-ionic2/</link>
+      <pubDate>Thu, 16 Mar 2017 05:58:00 +0000</pubDate>
+      
+      <guid>http://yannbraga.com/posts/how-to-transparent-header-ionic2/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+    &lt;a href=&#34;http://yannbraga.com/posts/how-to-transparent-header-ionic2/&#34;&gt;
+        &lt;img src=&#34;https://yannbraga.com/wp-content/uploads/2017/03/Transparent-header-Banner.png&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>echo &#34;Hello World&#34;</title>
+      <link>http://yannbraga.com/posts/echo-hello-world/</link>
+      <pubDate>Sun, 12 Mar 2017 23:19:00 +0000</pubDate>
+      
+      <guid>http://yannbraga.com/posts/echo-hello-world/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+    &lt;a href=&#34;http://yannbraga.com/posts/echo-hello-world/&#34;&gt;
+        &lt;img src=&#34;https://yannbraga.com/wp-content/uploads/2017/03/hello-world-1.png&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;To begin with, I&amp;rsquo;d like to welcome you and tell a bit about myself.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is Yann Braga, a software developer based in Brazil. I&amp;rsquo;m a lover of art and music that ended up in the world of computer science&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
